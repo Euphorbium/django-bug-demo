@@ -1,0 +1,1 @@
+-e git+https://github.com/Euphorbium/django.git@94591b977a1df184a627d8ddf5241cd75247d9c3#egg=django

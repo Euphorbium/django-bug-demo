@@ -1,0 +1,1 @@
+[{"model": "bugdemo.question", "pk": 1, "fields": {"question_text": "test"}}, {"model": "bugdemo.choice", "pk": 1, "fields": {"question": 1, "choice_text": "kjkjlk", "votes": 3}}, {"model": "bugdemo.choice", "pk": 2, "fields": {"question": 1, "choice_text": "kllkjlkj", "votes": 2}}]
